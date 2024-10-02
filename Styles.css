@@ -1,0 +1,66 @@
+body {
+
+
+  background: rgba(182, 216, 231, 0.678);
+}
+
+
+
+
+H1 {
+
+  color: red;
+  text-shadow: 0px 0px 62px rgb(111, 207, 252);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 80px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+form {
+
+  
+  text-align: center;
+  height: 50px;
+
+}
+
+
+input{
+
+  line-height: 30px;
+  border-radius: 40px;
+  margin: 5PX;
+
+}
+
+
+button{
+
+  margin: 5PX;
+  line-height: 30px;
+  color: black;
+  background-color: grey;
+  border-radius:  40px;
+  font-family:'Times New Roman', Times, serif;
+}
+
+
+div {
+
+
+  
+  text-align: center;
+
+}
+.registro {
+  
+  
+  text-align: center;
+  height: 30px;
+  width: 20%;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20PX;
+  line-height: 20px;
+  color: white;
+}
